@@ -1,0 +1,21 @@
+.header{
+    background-image: url(./imagenes_integrador_front/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+
+.logo{
+    width: 50%;
+}
+
+
+a{text-decoration: none;}
+
+footer{
+    font-size: x-small;
+    background-color: rgb(4, 107, 99);
+}
+
